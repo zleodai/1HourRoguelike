@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Food Remaining" name="FoodLabel" style="color: rgb(255, 255, 255); -unity-font-definition: url(&quot;project://database/Assets/TutorialAssets/Fonts/PressStart2P-Regular.ttf?fileID=12800000&amp;guid=b284a6525342f44599e9ce79e37c2d61&amp;type=3#PressStart2P-Regular&quot;); font-size: 10px; -unity-text-align: upper-center; position: absolute; bottom: 15px; width: 343px; left: 302px; right: -37px;"/>
+    <ui:VisualElement name="GameOverPanel" style="flex-grow: 1; -unity-background-image-tint-color: rgb(255, 0, 0);">
+        <ui:Label text="Game Over" name="FoodLabel" style="color: rgb(255, 255, 255); -unity-font-definition: url(&quot;project://database/Assets/TutorialAssets/Fonts/PressStart2P-Regular.ttf?fileID=12800000&amp;guid=b284a6525342f44599e9ce79e37c2d61&amp;type=3#PressStart2P-Regular&quot;); font-size: 10px; -unity-text-align: upper-center; position: absolute; bottom: 251px; width: 343px; left: 287px; right: -23px;"/>
+    </ui:VisualElement>
+</ui:UXML>
