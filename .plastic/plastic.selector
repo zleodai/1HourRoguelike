@@ -1,4 +1,0 @@
-repository "1HourRoguelike/1HourRoguelike@1374418064331@cloud"
-  path "/"
-    br "/main"
-    co "/main"
